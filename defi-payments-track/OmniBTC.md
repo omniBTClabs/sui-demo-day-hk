@@ -6,7 +6,7 @@
 
 OmniBTC
 
-[Logo](https://github.com/omniBTClabs/sui-demo-day-hk/blob/main/assets/OmniBTC.png)
+![](https://github.com/omniBTClabs/sui-demo-day-hk/blob/main/assets/OmniBTC.png)
 
 ### Project Website
 
@@ -48,8 +48,8 @@ In our opinion, Sui currently needs a cross-chain financial application capable 
 ## Eligibility
 
 - Is this project deployed on Sui Devnet or Testnet or otherwise integrated with Sui?
-    - [√] Yes
+    - [x] Yes
     - [ ] No
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
-    - [√] Yes
+    - [x] Yes
     - [ ] No
